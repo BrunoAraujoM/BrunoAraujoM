@@ -11,7 +11,7 @@
 
 ### 🎯 Sobre mim
 
-Analista de BI com experiência em transformação de dados em insights estratégicos para tomada de decisão. Atuo com coleta, tratamento, modelagem e visualização de dados utilizando Power BI, DAX, SQL, Python e ferramentas de ETL. Formação em Gestão de RH com transição consolidada para a área de dados, cursando Bacharelado em Ciência de Dados (UNIVESP) e MBA em Liderança, Gestão de Pessoas e Projetos.
+Analista de BI com experiência em transformação de dados em insights estratégicos para tomada de decisão. Atuo com coleta, tratamento, modelagem e visualização de dados utilizando Power BI, DAX, SQL, Python e ferramentas de ETL. Formado em Gestão de Recursos Humanos, cursando Bacharelado em Ciência de Dados (UNIVESP) e MBA em Liderança, Gestão de Pessoas e Projetos, combino visão de negócio e gestão de pessoas com expertise técnica para entregar soluções que impulsionam resultados.
 
 ---
 
